@@ -55,10 +55,6 @@
   <img src="https://komarev.com/ghpvc/?username=adity1raut&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/adity1raut/adity1raut/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
 ---
 
 ⭐️ From [Aditya Raut](https://github.com/adity1raut)
