@@ -19,6 +19,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Lucide React](https://img.shields.io/badge/Lucide_React-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -40,11 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adity1raut&theme=radical" alt="Aditya's GitHub Streak" />
 </p>
 
----
-
-### 🌟 Featured Projects
-- **[Project 1](https://github.com/adity1raut/project1)** - A brief description of your project.
-- **[Project 2](https://github.com/adity1raut/project2)** - Another cool project you've worked on.
 
 ---
 
