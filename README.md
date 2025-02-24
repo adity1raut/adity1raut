@@ -52,9 +52,6 @@
 ---
 
 ### 🎨 Animations
-<p align="center">
-  <img src="https://github.com/adity1raut/adity1raut/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adity1raut&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
