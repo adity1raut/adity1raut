@@ -51,7 +51,6 @@
 ### 📫 Let's Connect!
 - 📧 **Email**: [araut7798@gmail.com](mailto:araut7798@gmail.com)
 - 💼 **LinkedIn**: [Aditya Raut](https://www.linkedin.com/in/aditya1_raut)
-- 🐦 **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle) *(if applicable)*
 
 ---
 
