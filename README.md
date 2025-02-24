@@ -45,12 +45,6 @@
 
 ---
 
-### 🌟 Featured Projects
-- **[Project 1](https://github.com/adity1raut/project1)** - A brief description of your project.
-- **[Project 2](https://github.com/adity1raut/project2)** - Another cool project you've worked on.
-
----
-
 ### 📫 Let's Connect!
 - 📧 **Email**: [araut7798@gmail.com](mailto:araut7798@gmail.com)
 - 💼 **LinkedIn**: [Aditya Raut](https://www.linkedin.com/in/aditya1_raut)
