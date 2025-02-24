@@ -1,13 +1,68 @@
-- 👋 Hi, I’m **Aditya Raut**  
-- 👀 I’m interested in **web development, open-source projects, and building scalable web applications**.  
-- 🌱 I’m currently learning **advanced JavaScript frameworks like React.js and Node.js 
-- 💞️ I’m looking to collaborate on **open-source projects, web development tools, or any innovative web-based solutions**.  
-- 📫 How to reach me: **Drop me an email at araut7798@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/aditya1_raut)**.  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes! Also, I love combining creativity with code to build visually stunning websites.**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Aditya+Raut;Web+Developer;Open-Source+Enthusiast;Problem+Solver;Creative+Coder" alt="Typing SVG" />
+</p>
 
-Let’s build something amazing together! 🚀
-<!---
-adity1raut/adity1raut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👨‍💻 About Me
+- 🌐 I’m passionate about **web development, open-source projects, and building scalable web applications**.
+- 🚀 Currently learning **advanced JavaScript frameworks like React.js and Node.js**.
+- 🤝 Looking to collaborate on **open-source projects, web development tools, or innovative web-based solutions**.
+- 🎯 Fun fact: **I can solve a Rubik's Cube in under 2 minutes!** 🎲
+- ✨ Pronouns: **He/Him**
+
+---
+
+### 🛠️ Tech Stack
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adity1raut&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adity1raut&theme=radical" alt="Aditya's GitHub Streak" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+- **[Project 1](https://github.com/adity1raut/project1)** - A brief description of your project.
+- **[Project 2](https://github.com/adity1raut/project2)** - Another cool project you've worked on.
+
+---
+
+### 📫 Let's Connect!
+- 📧 **Email**: [araut7798@gmail.com](mailto:araut7798@gmail.com)
+- 💼 **LinkedIn**: [Aditya Raut](https://www.linkedin.com/in/aditya1_raut)
+- 🐦 **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle) *(if applicable)*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adity1raut&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/adity1raut/adity1raut/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+⭐️ From [Aditya Raut](https://github.com/adity1raut)
