@@ -63,5 +63,3 @@
 </p>
 
 ---
-
-⭐️ From [Aditya Raut](https://github.com/adity1raut)
