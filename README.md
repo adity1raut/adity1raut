@@ -1,5 +1,5 @@
 <p align="center">
- <b> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Aditya+Raut;Web+Developer;Open-Source+Enthusiast;Problem+Solver;Creative+Coder" alt="Typing SVG" /></b>
+ <b> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Aditya+Raut;Web+Developer;O[...]
 </p>
 
 ---
@@ -55,6 +55,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adity1raut&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
+---
+
+### 🚀 Projects
+- **Live Streaming**: Details about your live streaming project.
+- **Haknova**: Details about Haknova.
+- **Hackfusion 2025**: Details about Hackfusion 2025.
 
 ---
 
