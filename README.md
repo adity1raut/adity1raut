@@ -1,10 +1,6 @@
 <p align="center">
  <b> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Aditya+Raut;Web+Developer;Open+Source+Enthusiast;Tech+Lover;Always+Learning" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adity1raut&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -13,6 +9,10 @@
 - 🤝 Looking to collaborate on **open-source projects, web development tools, or innovative web-based solutions**.
 - ✨ Pronouns: **He/Him**
 
+---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adity1raut&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 ---
 
 ### 🛠️ Tech Stack
