@@ -4,7 +4,6 @@
 
 ### 👨‍💻 About Me
 - 🌐 I’m passionate about **web development, open-source projects, and building scalable web applications**.
-- 🚀 Currently learning **advanced JavaScript frameworks like React.js and Node.js**.
 - 🤝 Looking to collaborate on **open-source projects, web development tools, or innovative web-based solutions**.
 - ✨ Pronouns: **He/Him**
 
