@@ -10,20 +10,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate **Web Developer** based in India with a strong focus on creating scalable, user-centric applications. I believe in the power of open-source collaboration and continuous learning to drive innovation in the tech world.
-
-- 🌐 **Specializing in:** Full-stack web development, modern JavaScript frameworks, and cloud technologies
-- 🔭 **Currently working on:** Building innovative web applications and contributing to open-source projects
-- 🌱 **Learning:** Blockchain development, Golang, DevOps practices, and emerging web technologies
-- 👯 **Open to collaborate on:** Open-source projects, web development tools, and impactful digital solutions
-- ⚡ **Fun fact:** I love turning complex problems into simple, elegant solutions 
-
-
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
