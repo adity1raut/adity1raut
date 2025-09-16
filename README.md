@@ -14,7 +14,6 @@
 I'm a passionate **Web Developer** who loves creating scalable applications and contributing to open source projects. Currently expanding my skillset by diving deep into **DevOps** practices and **Data Structures & Algorithms** to become a more well-rounded developer.
 ## 📊 GitHub Analytics
 
----
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adity1raut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
