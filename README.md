@@ -17,6 +17,33 @@ Currently, I’m expanding my skill set by diving deep into **DevOps** practices
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+### [🎥 LiveStream](https://github.com/adity1raut/livestream)
+*A modern full-stack social and e-commerce platform for real-time posts, chat, live streaming, and online store management in a gaming-inspired dark UI.*
+
+**Tech Stack:** JavaScript | WebSocket | Social Media | E-commerce
+
+---
+
+### [🤖 Pravesh-Chatbot](https://github.com/adity1raut/Pravesh-Chatbot)
+*Admission Assistant Chatbot that provides college-related data and much more.*
+
+**Tech Stack:** JavaScript | MERN Stack | RAG | AI Chatbot
+
+---
+
+### [🎓 HackFusion2K25](https://github.com/adity1raut/HackFusion2K25)
+*A college management app built in a 36-hour hackathon to simplify student, faculty, and admin processes.*
+
+**Tech Stack:** JavaScript | React | Full-Stack Development | College Management
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
