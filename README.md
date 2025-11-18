@@ -1,32 +1,9 @@
-# 👋 Hi there! I'm Aditya Raut
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Web+Developer+%7C+Open+Source+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+%26+Growing;Passionate+About+Clean+Code)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=adity1raut&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-  
+<div style="text-align: center;">
+  <img src="Images/LandingPage.jpg" alt="Landing Page" style="width: 100%; max-width: 1200px; height: auto;">
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```javascript
-const aditya = {
-    role: "Web Developer",
-    passions: ["Building Scalable Applications", "Open Source"],
-    currentlyLearning: ["DevOps", "Data Structures & Algorithms"],
-    goals: "Become a well-rounded developer",
-    motto: "Code with passion, learn with purpose"
-};
-```
-
 <br clear="both">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
 
@@ -36,6 +13,10 @@ const aditya = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adity1raut&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
   
 </div>
+
+
+[![An image of @adity1raut's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adity1raut)](https://holopin.io/@adity1raut)
+
 
 
 ## 📈 Contribution Activity
@@ -60,7 +41,7 @@ const aditya = {
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 💡 Quote of the Day
 
@@ -69,5 +50,3 @@ const aditya = {
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10)
   
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
