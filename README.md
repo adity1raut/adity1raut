@@ -18,7 +18,7 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:25px;">
 
-  <a href="https://youtube.com/adity1raut" target="_blank" title="YouTube Channel">
+  <a href="https://www.youtube.com/@adity1_raut" target="_blank" title="YouTube Channel">
     <img src="image/Youtube.png" alt="YouTube"
          style="width:50px; height:50px; border-radius:50%; border:3px solid #ffffff;
          box-shadow:0 0 20px 8px rgba(0,0,0,0.8);">
