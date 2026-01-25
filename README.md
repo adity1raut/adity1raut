@@ -44,17 +44,6 @@
 
 </div>
 
-<br><br>
-
-<h2 align="center" style="font-family:'Roboto', sans-serif; font-weight:700; color:#58a6ff;">
-🚀 GitHub Analytics
-</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adity1raut&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=20&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adity1raut&layout=compact&langs_count=8&theme=github_dark&border_radius=20&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
 <br>
 
 <div align="center">
