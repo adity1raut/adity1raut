@@ -31,17 +31,6 @@
 | [**KubeStellar UI**](https://github.com/kubestellar/ui) | [Pull Requests](https://github.com/kubestellar/ui/pulls?q=is%3Apr+is%3Amerged+author%3Aadity1raut) |
 | [**Kmesh**](https://github.com/kmesh-net/website) | [Pull Requests](https://github.com/kmesh-net/kmesh/pulls?q=is%3Apr+is%3Amerged+author%3Aadity1raut) |
 
----
-
-## 🏅 Developer Badges
-[![Holopin Badges](https://holopin.me/adity1raut)](https://holopin.io/@adity1raut)
-
----
-
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adity1raut&theme=react-dark&hide_border=true&area=true&radius=15">
-</p>
 
 ---
 
