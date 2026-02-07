@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 - Junior undergraduate **Computer Science & Engineering** student at **SGGSIE&T, Nanded**.
-- Strong interest in **backend systems, testing, and cloud-native technologies**.
-- Actively contributing to **open source projects**, mainly around testing, reliability, and tooling.
-- 💬 Feel free to ask me anything related to **Computer Science, Go, Testing, or Open Source**.
+- Strong interest in **backend systems, testing, DevOps, CI/CD, cloud-native technologies, and UI development**.
+- Actively contributing to **open source projects**, mainly around **CI systems, observability, reliability, and developer tooling**.
+- 💬 Feel free to ask me anything related to **DevOps, CI/CD, UI development, Computer Science, Go, Testing, or Open Source**
 
 ---
 ## 🌍 Open Source Contributions
