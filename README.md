@@ -70,20 +70,6 @@ adity1raut@github:~$ cat /etc/motd
 
 ---
 
-
-```console
-adity1raut@github:~$ cat skills.json
-
-{
-  "languages" : ["Go", "JavaScript", "Java", "Python"],
-  "backend"   : ["Node.js", "Express", "WebSockets", "JWT"],
-  "frontend"  : ["React", "Tailwind CSS", "HTML", "CSS"],
-  "database"  : ["MongoDB", "MySQL", "PostgreSQL"],
-  "devops"    : ["Docker", "Kubernetes", "Jenkins", "GitHub Actions", "Nginx", "Linux"],
-  "testing"   : ["Ginkgo", "Gomega", "Jest", "Vitest", "Pytest", "Cypress", "Postman"]
-}
-```
-
 ---
 
 ```console
