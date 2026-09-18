@@ -25,7 +25,7 @@
 adity1raut@github:~$ whoami
 
   name      Aditya Raut
-  role      Software Engineer · DevOps
+  role      Software Engineer 
   edu       B.Tech CSE, SGGSIE&T Nanded (final year)
   loc       Nanded, Maharashtra, India
   focus     backend systems · testing · cloud-native infrastructure
