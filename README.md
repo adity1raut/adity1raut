@@ -50,25 +50,9 @@ adity1raut@github:~$ cat /etc/motd
 
 | Project | Maturity | Merged PRs | Issues |
 | :--- | :--- | :--- | :--- |
-| [**Fluid**](https://github.com/fluid-cloudnative/fluid) | `incubating` | [view](https://github.com/fluid-cloudnative/fluid/pulls?q=is%3Apr+is%3Amerged+author%3Aadity1raut) | [view](https://github.com/fluid-cloudnative/fluid/issues?q=is%3Aissue+author%3Aadity1raut) |
 | [**Kubescape**](https://github.com/kubescape/kubescape) | `incubating` | [view](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+is%3Amerged+author%3Aadity1raut) | [view](https://github.com/kubescape/kubescape/issues?q=is%3Aissue+author%3Aadity1raut) |
 | [**KubeStellar**](https://github.com/kubestellar) | `sandbox` | [view](https://github.com/search?q=org%3Akubestellar+author%3Aadity1raut+is%3Apr+is%3Amerged&type=pullrequests) | [view](https://github.com/search?q=org%3Akubestellar+author%3Aadity1raut+is%3Aissue&type=issues) |
 | [**HAMi**](https://github.com/Project-HAMi/HAMi) | `incubating` | [view](https://github.com/Project-HAMi/HAMi/pulls?q=is%3Apr+is%3Amerged+author%3Aadity1raut) | [view](https://github.com/Project-HAMi/HAMi/issues?q=is%3Aissue+author%3Aadity1raut) |
-| [**Koordinator**](https://github.com/koordinator-sh/koordinator) | `sandbox` | [view](https://github.com/koordinator-sh/koordinator/pulls?q=is%3Apr+is%3Amerged+author%3Aadity1raut) | [view](https://github.com/koordinator-sh/koordinator/issues?q=is%3Aissue+author%3Aadity1raut) |
-| [**Chaos Mesh**](https://github.com/chaos-mesh/chaos-mesh) | `incubating` | [view](https://github.com/chaos-mesh/chaos-mesh/pulls?q=is%3Apr+is%3Amerged+author%3Aadity1raut) | [view](https://github.com/chaos-mesh/chaos-mesh/issues?q=is%3Aissue+author%3Aadity1raut) |
-| [**OpenTelemetry**](https://github.com/open-telemetry) | `graduated` | [view](https://github.com/search?q=org%3Aopen-telemetry+author%3Aadity1raut+is%3Apr+is%3Amerged&type=pullrequests) | [view](https://github.com/search?q=org%3Aopen-telemetry+author%3Aadity1raut+is%3Aissue&type=issues) |
-| [**Kubeflow**](https://github.com/kubeflow) | `graduated` | [view](https://github.com/search?q=org%3Akubeflow+author%3Aadity1raut+is%3Apr+is%3Amerged&type=pullrequests) | [view](https://github.com/search?q=org%3Akubeflow+author%3Aadity1raut+is%3Aissue&type=issues) |
-
----
-
-## `$ kubectl get contributions -n gsoc-orgs`
-
-| Project | Organization | Merged PRs | Issues |
-| :--- | :--- | :--- | :--- |
-| [**Talawa Admin**](https://github.com/PalisadoesFoundation/talawa-admin) | [Palisadoes Foundation](https://www.palisadoes.org/) | [view](https://github.com/PalisadoesFoundation/talawa-admin/pulls?q=is%3Apr+is%3Amerged+author%3Aadity1raut) | [view](https://github.com/PalisadoesFoundation/talawa-admin/issues?q=is%3Aissue+author%3Aadity1raut) |
-| [**ESP-Website**](https://github.com/learning-unlimited/ESP-Website) | [Learning Unlimited](https://learningu.org/) | [view](https://github.com/learning-unlimited/ESP-Website/pulls?q=is%3Apr+is%3Amerged+author%3Aadity1raut) | [view](https://github.com/learning-unlimited/ESP-Website/issues?q=is%3Aissue+author%3Aadity1raut) |
-
----
 
 ---
 
